@@ -15,6 +15,13 @@
       "when": 1752515262211,
       "tag": "0001_curious_tomorrow_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752627588514,
+      "tag": "0002_brave_ben_urich",
+      "breakpoints": true
     }
   ]
 }
